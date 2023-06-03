@@ -10,7 +10,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-R
 
 <div style="dysplay inline_block">
     <h2>Languages:</h2>
-    <img aling="center" height="40" width="50"
+    <img align="rigth" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img aling="center" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -20,7 +20,7 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-R
 
 <div style="display inline_block">
     <h2>Design:</h2>
-    <img aling="top" height="40" width="50"
+    <img align="center" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
     <img aling="top" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
