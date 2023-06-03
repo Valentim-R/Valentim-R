@@ -1,6 +1,7 @@
 <h1>Olá! Eu sou o Ramon👋</h1>
-> Programador e designer grafico
 
+> Programmer and graphic designer
+    
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Valentim-R&show_icons=true&theme=tokyonight)
 [![Top
