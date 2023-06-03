@@ -11,11 +11,11 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-R
 <div style="dysplay inline_block">
     <h2>Languages:</h2>
     <img aling="center" height="40" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-    <img aling="center" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img aling="center" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img aling="center" height="40" width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
 <div style="display inline_block">
