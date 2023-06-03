@@ -16,7 +16,8 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentim-R
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img aling="center" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-</div><div style="display inline_block">
+</div>
+<div style="display inline_block">
     <h2>Design:</h2>
     <img align="top" height="40" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
