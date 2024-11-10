@@ -14,8 +14,6 @@
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
             <img align="top" height="50" width="50"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-
         </div>
         <div style="display: inline-block;">
             <h2>Design:</h2>
