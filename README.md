@@ -15,12 +15,5 @@
             <img align="top" height="50" width="50"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         </div>
-        <div style="display: inline-block;">
-            <h2>Design:</h2>
-            <img align="top" height="50" width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-            <img align="top" height="50" width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-        </div>
     </div>
 </main>
